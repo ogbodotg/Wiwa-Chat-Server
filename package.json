@@ -12,6 +12,10 @@
     "dev":"nodemon index",
     "start": "node index"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogbodotg/Wiwa-Chat-Server.git"
+  },
   "author": "",
   "license": "ISC",
   "description": "",
