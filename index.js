@@ -29,7 +29,7 @@ io.on("connection", (socket)=>{
 });
 
 app.route("/check").get((req, res)=>{
-    return res.json("Your working effectively");
+    return res.json("You're good to go");
 
 });
 
